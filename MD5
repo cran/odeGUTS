@@ -1,6 +1,6 @@
-4999fef8beb3fc4bcfcce90b84a67a49 *DESCRIPTION
+813664e0e5a614c75b7e2411e88ca76e *DESCRIPTION
 3366f4aa752aa40b4ab6e057e84716ed *NAMESPACE
-441ef677f8b0b5636e6c08aed760cafa *NEWS.md
+86d830691cf939eee1e16e431db0d853 *NEWS.md
 8ee7e4e3668e52128c2c46ea47d1c4a9 *R/importFromMorse.R
 3428e5f957b0742ffaab1aa9faa5449e *R/odeGUTS-Internal.R
 71ea0be93c9930f6ffde7e2711d503d7 *R/odeGUTS-package.R
@@ -10,10 +10,10 @@ cf794928715019cf81bd51d467156178 *R/utils-pipe.R
 ef508faa80edbacc268c542553c543de *data/fit_odeGUTS.rda
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
 a23bc0b4f954d1763d52c95bd4ffe6dc *man/fit_odeGUTS.Rd
-12dbfd20ce91114789ff9a2a45d9dd5d *man/odeGUTS-package.Rd
+70fd455de6d5a07698d3f07882f0168c *man/odeGUTS-package.Rd
 29ee7383caa7fc8c14f52bd035509064 *man/pipe.Rd
 df8e97ad97be094716431eafe4f04a70 *man/predict.Rd
 a144a5863f2dd3f4de107709a69f0025 *man/predict_check.Rd
-2c9004e91f1ffe343df221c909121d9d *src/gutsRedIT.c
-043fd8d35fdd988bd743c5f50ce2de0e *src/gutsRedSD.c
+5b1e11c841704776b951e830bc6f4253 *src/gutsRedIT.c
+52debf1f6b225d2f5372a73ffef5b037 *src/gutsRedSD.c
 9c6218a5c6af765581ff97126046fe06 *src/odeGUTS_init.c

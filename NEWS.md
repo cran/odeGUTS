@@ -1,3 +1,6 @@
+# odeGUTS 1.0.3
+* Patch C functions following the implementation by CRAN of "_R_USE_STRICT_R_HEADERS_=true"
+
 # odeGUTS 1.0.2
 * Patch deprecated C functions
 
