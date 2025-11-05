@@ -1,12 +1,18 @@
 Package: odeGUTS
 Title: Solve ODE for GUTS-RED-SD and GUTS-RED-IT Using Compiled Code
-Version: 1.0.3
+Version: 1.1.0
 Authors@R: 
+    c(
     person(given = "Benoit",
            family = "Goussen",
-           role = c("aut", "cre"),
+           role = c("aut"),
            email = "benoit.goussen@ibacon.com",
-           comment = c(ORCID = "0000-0001-7204-7981"))
+           comment = c(ORCID = "0000-0001-7204-7981")),
+    person(given = "Carlo",
+           family = "Romoli",
+           role = c("cre"),
+           email = "carlo.romoli@ibacon.com")
+    )
 Description: Allows performing forwards prediction for the General Unified 
           Threshold model of Survival using compiled ode code. This package 
           was created to avoid dependency with the 'morse' package that requires 
@@ -25,8 +31,9 @@ Imports: deSolve, magrittr, stats, dplyr, zoo, tidyr
 NeedsCompilation: yes
 Suggests: morse
 Depends: R (>= 2.10)
-Packaged: 2024-10-04 15:37:58 UTC; gob
-Author: Benoit Goussen [aut, cre] (<https://orcid.org/0000-0001-7204-7981>)
-Maintainer: Benoit Goussen <benoit.goussen@ibacon.com>
+Packaged: 2025-11-05 11:41:54 UTC; gob
+Author: Benoit Goussen [aut] (ORCID: <https://orcid.org/0000-0001-7204-7981>),
+  Carlo Romoli [cre]
+Maintainer: Carlo Romoli <carlo.romoli@ibacon.com>
 Repository: CRAN
-Date/Publication: 2024-10-04 17:20:06 UTC
+Date/Publication: 2025-11-05 14:20:02 UTC
